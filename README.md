@@ -14,7 +14,7 @@ Every single bit can be used but do not have to.
 
 This sounds too ambitious? ... Well, maybe it is. We'll see.
 
-Skip to Contributers ;)
+Skip to Contributing ;)
 
 ## What this is not about
 
