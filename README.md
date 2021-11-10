@@ -2,26 +2,39 @@
 
 ## What this is all about
 
-This project is about unleashing Angular's & Typescripts superpowers to make our work as developers, frontend guru, trainee and everyone else who likes Angular as enjoyable as it can be. 
+This project is about unleashing Angular's superpowers to make our work as developers, frontend gurus, trainees and everyone else who likes Angular as enjoyable as it can be.
 
-We want to create a library that provides a variety of helpers that take over frequently repeating tasks in building Angular applications.
-These helpers should be implemented so simply that they are independent of any third-party library.
+- Developers should like it
+- Frontend Gurus should love it
+- Trainees and everyone else don't need to know how, but that it works and how to use it
 
+We want to create a library that provides a variety of utilities that take over frequently repeating tasks in building Angular applications.
+These utilities are supposed to be small and simple and independent of third-party libraries.
 Every single bit can be used but do not have to.
 
-## What it is not about
+This sounds too ambitious? ... Well, maybe it is. We'll see.
 
-To deliver the kryptonite as well
+Skip to Contributers ;)
+
+## What this is not about
+
+To provide the kryptonite as well
 
 ## Status
 
-There are still some ideas and maybe a branch or two
+There are still some ideas and maybe a branch or two.
 
 ## Rodmap
 
-After the first ideas are implemented, the package will be published
+- Collect more ideas
+- Sort ideas in logical groups
+- Create definition of done
+- Create a first workpackage from the most wanted untilities
+- Create library architecture and publishing strategy
+- Develop the first bunch of utilities
+- Publish library/ies as npm packages
 
-## Contributors
+## Contributing
 
-New ideas are very welcome and can be shared in the discussions.
-If you want to contribute just share this in your idea ;)
+New ideas and helping hands are welcome.
+If you want to contribute just share your idea in the discussions ;)
